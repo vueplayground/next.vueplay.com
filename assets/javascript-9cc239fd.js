@@ -1,6 +1,0 @@
-import{conf as t,language as e}from"./typescript-08036848.js";import"./Design-58f9c7f8.js";import"./SectionRenderer-a6f9df7e.js";import"./compiler-45f92bc2.js";import"./index-9d6a02cc.js";import"./ModalProfileSubscriptionPricing-8f8b0c46.js";/*!-----------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Version: 0.39.0(ff3621a3fa6389873be5412d17554294ea1b0941)
- * Released under the MIT license
- * https://github.com/microsoft/monaco-editor/blob/main/LICENSE.txt
- *-----------------------------------------------------------------------------*/var c=t,l={defaultToken:"invalid",tokenPostfix:".js",keywords:["break","case","catch","class","continue","const","constructor","debugger","default","delete","do","else","export","extends","false","finally","for","from","function","get","if","import","in","instanceof","let","new","null","return","set","static","super","switch","symbol","this","throw","true","try","typeof","undefined","var","void","while","with","yield","async","await","of"],typeKeywords:[],operators:e.operators,symbols:e.symbols,escapes:e.escapes,digits:e.digits,octaldigits:e.octaldigits,binarydigits:e.binarydigits,hexdigits:e.hexdigits,regexpctl:e.regexpctl,regexpesc:e.regexpesc,tokenizer:e.tokenizer};export{c as conf,l as language};
