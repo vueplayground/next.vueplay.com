@@ -1,0 +1,6 @@
+import{S as r}from"./SectionRenderer-4b87aee5.js";import{_ as n,r as o,d as p,u as l,o as m}from"./index-63845cb6.js";import"./compiler-4edca990.js";const d={components:{SectionRenderer:r},inject:["compiler"],data:()=>({ast:null,main:""}),watch:{main(e){e.indexOf("<template><")!==-1&&(e=e.replace("<template><",`<template>
+        <`)),this.ast=this.compiler.parse(e,!0,!0)}},async mounted(){var a,i;let e=((a=window==null?void 0:window.location)==null?void 0:a.hash)||((i=window==null?void 0:window.frameElement)==null?void 0:i.getAttribute("uid"));if(e){e=e.replace("#","");let t=await fetch(`https://api.vueplay.io/types/sfc/${e}?ref=HEAD&type=vue`);this.main=await t.text(),this.ast=this.compiler.parse(this.main,!0,!0)}else this.main=`
+        <template>
+          <div>No Source</div>
+        </template>
+      `,this.ast=this.compiler.parse(this.main,!0,!0);window.addEventListener("message",t=>{typeof t.data.raw<"u"&&(this.main=t.data.raw,this.ast=this.compiler.parse(this.main,!0,!0))})}},c={class:"preview"};function u(e,a,i,t,_,h){const s=o("SectionRenderer");return m(),p("div",c,[l(s,{ast:e.ast,main:e.main,sidemenu:"0px",mobile:!1,fs:{},events:!0,full:!0,tailwind:!0},null,8,["ast","main"])])}const y=n(d,[["render",u],["__scopeId","data-v-a72d812e"]]);export{y as default};
