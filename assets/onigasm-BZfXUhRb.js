@@ -1,0 +1,1 @@
+var e=`/assets/onigasm-kQxuTr47.wasm`;export{e as default};
