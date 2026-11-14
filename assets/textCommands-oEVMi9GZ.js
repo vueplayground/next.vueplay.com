@@ -1,0 +1,1 @@
+export{tt as pageReader}from"./Design-BGkwCV7O.js";
