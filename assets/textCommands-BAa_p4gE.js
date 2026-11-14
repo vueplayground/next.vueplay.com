@@ -1,1 +1,0 @@
-export{tt as pageReader}from"./Design-K6yR_2wn.js";
