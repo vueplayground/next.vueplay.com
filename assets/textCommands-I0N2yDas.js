@@ -1,0 +1,1 @@
+export{dt as pageReader}from"./Design-XVc6CEZ4.js";
