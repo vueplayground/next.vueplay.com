@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-B2963eix.js";
