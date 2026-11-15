@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-BAdMg3vQ.js";

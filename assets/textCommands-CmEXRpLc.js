@@ -1,0 +1,1 @@
+export{ut as pageReader}from"./Design-BXdHj3i-.js";
