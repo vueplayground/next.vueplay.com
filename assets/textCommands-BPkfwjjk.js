@@ -1,0 +1,1 @@
+export{ut as pageReader}from"./Design-CTap12AP.js";

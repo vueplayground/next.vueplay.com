@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-kWx1pjrK.js";
