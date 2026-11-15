@@ -1,0 +1,1 @@
+export{ut as pageReader}from"./Design-DuAcLYn_.js";
