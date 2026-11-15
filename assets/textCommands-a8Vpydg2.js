@@ -1,0 +1,1 @@
+export{dt as pageReader}from"./Design-CKS3ysQG.js";
