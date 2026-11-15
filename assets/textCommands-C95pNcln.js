@@ -1,1 +1,0 @@
-export{ft as pageReader}from"./Design-91UFQERK.js";
