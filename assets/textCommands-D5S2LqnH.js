@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-9PHGs7ES.js";
