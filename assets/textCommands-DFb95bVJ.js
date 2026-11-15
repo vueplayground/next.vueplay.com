@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-CZC6zZ-Q.js";
