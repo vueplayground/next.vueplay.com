@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-Chw114re.js";
