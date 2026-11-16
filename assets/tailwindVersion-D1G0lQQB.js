@@ -1,1 +1,0 @@
-export{w as readTailwind}from"./main-UrqGp2h4.js";
