@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-D64hTC0z.js";
