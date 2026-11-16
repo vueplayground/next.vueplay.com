@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-Dhzsh7Rb.js";
