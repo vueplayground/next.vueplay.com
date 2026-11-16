@@ -1,0 +1,1 @@
+export{pt as pageReader}from"./Design-Dxg2Nzu3.js";
