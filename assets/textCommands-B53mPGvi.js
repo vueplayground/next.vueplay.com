@@ -1,0 +1,1 @@
+export{pt as pageReader}from"./Design-DWZTSd9g.js";
