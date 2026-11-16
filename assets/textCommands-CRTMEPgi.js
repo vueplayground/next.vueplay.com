@@ -1,0 +1,1 @@
+export{pt as pageReader}from"./Design-F_h0KAY2.js";
