@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-CfCu5Ww3.js";
