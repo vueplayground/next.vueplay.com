@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-BTNi6R0e.js";
