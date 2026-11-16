@@ -1,0 +1,1 @@
+export{gt as pageReader}from"./Design-CKe992vp.js";
