@@ -1,1 +1,0 @@
-export{w as readTailwind}from"./main-CoB-fZR9.js";
