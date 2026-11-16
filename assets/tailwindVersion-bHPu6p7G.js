@@ -1,0 +1,1 @@
+export{w as readTailwind}from"./main-CtSDNV95.js";

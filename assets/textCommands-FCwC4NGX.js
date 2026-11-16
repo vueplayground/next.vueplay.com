@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-BQ9LrM_G.js";
