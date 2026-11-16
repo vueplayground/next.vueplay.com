@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-C-PAT1gr.js";
