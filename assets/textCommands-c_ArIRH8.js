@@ -1,0 +1,1 @@
+export{gt as pageReader}from"./Design-vQ2qKvij.js";
