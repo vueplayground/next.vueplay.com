@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-Mdp-ZRRQ.js";
