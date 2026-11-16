@@ -1,0 +1,1 @@
+export{pt as pageReader}from"./Design-Cj8PPfG2.js";
