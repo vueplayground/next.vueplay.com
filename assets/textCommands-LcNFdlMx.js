@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-C2jdrTit.js";
