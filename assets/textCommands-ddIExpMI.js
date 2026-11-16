@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-CrJzm-Uj.js";
