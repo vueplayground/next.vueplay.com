@@ -1,0 +1,1 @@
+export{dt as pageReader}from"./Design-DM7EOm0P.js";
