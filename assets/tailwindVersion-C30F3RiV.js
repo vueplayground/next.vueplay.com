@@ -1,0 +1,1 @@
+export{w as readTailwind}from"./main-C3Bm6ppg.js";

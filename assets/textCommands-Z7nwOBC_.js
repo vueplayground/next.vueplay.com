@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-Dotz1oxy.js";

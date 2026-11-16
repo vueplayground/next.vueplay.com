@@ -1,0 +1,1 @@
+export{pt as pageReader}from"./Design-CQ4sQxWP.js";
