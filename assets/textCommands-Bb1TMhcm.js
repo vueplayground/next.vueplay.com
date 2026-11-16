@@ -1,0 +1,1 @@
+export{ut as pageReader}from"./Design-B11Oin-e.js";
