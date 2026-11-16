@@ -1,1 +1,0 @@
-export{pt as pageReader}from"./Design-R7Fuxtmj.js";
