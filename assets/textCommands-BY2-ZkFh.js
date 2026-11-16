@@ -1,1 +1,0 @@
-export{gt as pageReader}from"./Design-CWNsacc5.js";

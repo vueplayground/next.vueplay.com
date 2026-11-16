@@ -1,0 +1,1 @@
+export{gt as pageReader}from"./Design-cH1ck3me.js";
