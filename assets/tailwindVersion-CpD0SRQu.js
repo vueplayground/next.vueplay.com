@@ -1,0 +1,1 @@
+export{w as readTailwind}from"./main-Dh78edPa.js";
