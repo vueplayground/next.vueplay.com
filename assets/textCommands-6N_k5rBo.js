@@ -1,1 +1,0 @@
-export{ut as pageReader}from"./Design-BtsFuyvu.js";
