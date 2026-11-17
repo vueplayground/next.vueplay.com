@@ -1,0 +1,1 @@
+export{w as readTailwind}from"./main-C6DuJgs7.js";
