@@ -1,1 +1,0 @@
-export{St as pageReader}from"./Design-DTasX111.js";
