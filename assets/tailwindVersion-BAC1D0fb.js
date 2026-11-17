@@ -1,1 +1,0 @@
-export{w as readTailwind}from"./main-zMVsnP2J.js";
