@@ -1,1 +1,0 @@
-export{St as pageReader}from"./Design-Dn51QU67.js";
