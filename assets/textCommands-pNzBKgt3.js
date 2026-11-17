@@ -1,0 +1,1 @@
+export{St as pageReader}from"./Design-Cwb-wo2H.js";
