@@ -1,1 +1,0 @@
-export{ft as pageReader}from"./Design-CM6MbK-b.js";

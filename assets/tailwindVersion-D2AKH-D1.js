@@ -1,0 +1,1 @@
+export{w as readTailwind}from"./main-Cxz_oEfT.js";
