@@ -1,1 +1,0 @@
-export{ft as pageReader}from"./Design-B1d4V2pL.js";
