@@ -1,1 +1,0 @@
-export{ft as pageReader}from"./Design-l3cAoz_V.js";
