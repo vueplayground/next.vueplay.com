@@ -1,0 +1,1 @@
+export{St as pageReader}from"./Design-B_Vt_qTw.js";
