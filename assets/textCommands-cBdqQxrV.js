@@ -1,0 +1,1 @@
+export{ft as pageReader}from"./Design-CH_N59iC.js";
