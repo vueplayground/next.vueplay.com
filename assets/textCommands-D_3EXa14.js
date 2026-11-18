@@ -1,0 +1,1 @@
+export{ft as pageReader}from"./Design-3WDyAumi.js";
